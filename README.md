@@ -1,3 +1,5 @@
+This code is associated with the paper from Genc et al., "Homeostatic plasticity fails at the intersection of autism-gene mutations and a novel class of common genetic modifiers". eLife, 2020. http://doi.org/10.7554/eLife.55775
+
 # Genc2020_RNAseq
 Analysis codes for Genc et al. 2020. Please find the raw files in the GEO database, the accession ID is `GSE153225`
 
